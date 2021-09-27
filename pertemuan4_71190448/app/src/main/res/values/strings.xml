@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pertemuan4_71190448</string>
+    <string name="lupa_Password">Forget Password?</string>
+    <string name="slogan">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="newhere">New Here? Sign Up!</string>
+    <string name="signin">Sign In</string>
+    <string name="tekanmasuk">Press to sign in</string>
+</resources>
