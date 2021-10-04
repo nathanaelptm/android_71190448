@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pertemuan4_71190448</string>
+    <string name="lupa_Password">Lupa Kata Sandi?</string>
+    <string name="slogan">Masuk untuk melanjutkan</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Kata Sandi</string>
+    <string name="newhere">Baru di sini? Daftar Sekarang!</string>
+    <string name="signin">Masuk</string>
+    <string name="tekanmasuk">Tekan untuk masuk</string>
+</resources>
