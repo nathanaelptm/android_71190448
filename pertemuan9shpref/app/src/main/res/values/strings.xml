@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pertemuan9shpref</string>
+    <string name="lupa_Password">lupa password</string>
+    <string name="signin">sign in</string>
+    <string name="newhere">new here</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="slogan">slogan</string>
+    <string-array name="list_bahasa">
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+    </string-array>
+</resources>
