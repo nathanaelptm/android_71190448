@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    android:orientation="horizontal"
+    android:layout_margin="13dp"
+    app:cardCornerRadius="11dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/button"
+        android:id="@+id/linear1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama"
+            android:textSize="24sp"
+            android:textColor="@color/utaman"
+            android:fontFamily="@font/genshindua"
+            android:padding="8dp"
+            android:id="@+id/nama"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIK"
+            android:textSize="15sp"
+            android:textColor="@color/utaman"
+            android:fontFamily="@font/genshindua"
+            android:padding="8dp"
+            android:id="@+id/nik"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tempat, Tanggal Lahir"
+            android:textSize="15sp"
+            android:textColor="@color/utaman"
+            android:fontFamily="@font/genshindua"
+            android:padding="8dp"
+            android:id="@+id/ttl"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pekerjaan"
+            android:textSize="15sp"
+            android:textColor="@color/utaman"
+            android:fontFamily="@font/genshindua"
+            android:padding="8dp"
+            android:id="@+id/pekerjaan"/>
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>
